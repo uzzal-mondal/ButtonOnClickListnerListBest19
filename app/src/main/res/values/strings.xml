@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BestOnClickListner19</string>
+    <string name="text">Hello</string>
+    <string name="button2">Logout Button</string>
+    <string name="textView">Hello</string>
+    <string name="button">Login Button</string>
+
+
+</resources>
